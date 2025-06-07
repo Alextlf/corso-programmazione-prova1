@@ -1,0 +1,15 @@
+Principali Comandi di Git:
+
+git init: inizializza un nuovo repository
+git clone: clona un repository esistente
+git add: aggiunge un file allo stage (area di preparazione) per il prossimo commit
+git commit: salva le modifiche nello storico del repository
+git status: mostra lo stato dei file nel workinng directory e nell' area di staging
+git push: carica le modifiche al repository remoto
+git pull: scarica le modifiche dal repository remoto e le intenrgra con il lavoro locale
+git branch: gestisce i ramim del progetto
+git checkout: cambia ramo o ripristina file dello working directory
+git merge: unisce le modifiche di due rami
+git rebase: riapplica le modifiche di un ramo su un altro punto base
+git log: visualizza la cronologia dei commit
+git diff: mostra le differenze tra i file o i commit
