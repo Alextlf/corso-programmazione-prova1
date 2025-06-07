@@ -1,2 +1,3 @@
 # corso-programmazione-prova1
-prova1 su versionamento
+
+Questa repository servirà come riferimento alla lezione 2 su GitHub di Mastered
